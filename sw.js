@@ -24,6 +24,8 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
+  precacheUrls.push('/2019/06/12/test/');
+
   precacheUrls.push('/2019/06/12/hello-world/');
 
 toolbox.precache(precacheUrls);
